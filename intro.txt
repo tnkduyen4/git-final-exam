@@ -12,3 +12,10 @@ Kỹ năng:
 1) Làm việc nhóm
 2) Vẽ
 3) Thiết kế
+
+Kế hoạch học tập:
+- Ôn kiến thức Git hằng ngày.
+- Thực hành commit nhỏ, thường xuyên.
+- Tự tạo dự án demo để luyện branch/merge.
+- Ghi chú reset/revert/stash sau khi thử.
+- Theo dõi issue và PR để quen quy trình nhóm.
